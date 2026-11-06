@@ -50,3 +50,4 @@ When connecting this repository in the Cloudflare dashboard:
 | **Deployment** | Azure App Service / AKS / Container App restarts container | Instant zero-downtime global edge propagation (< 10s) |
 | **Infrastructure** | VMs / Containers in chosen Azure region(s) | 330+ edge locations worldwide out of the box |
 | **SSL / CDN** | Needs Application Gateway, Front Door or Azure CDN | Automatic SSL certificate & CDN included by default |
+ 
